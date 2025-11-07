@@ -1,5 +1,5 @@
 # The Space Coffee
-Bài tập lớn môn Thực tập chuyên môn
+Bài tập lớn môn Lập trình web
 
 ## Mô tả
 Trang web quản lí cửa hàng và là bài tập lớn để đánh giá quá trình học tập của môn học.
